@@ -137,12 +137,12 @@ namespace CalculadoraConsola
             Console.WriteLine("");
 
             Console.WriteLine("Ingrese el primer valor");
-            int valor1 = Int32.Parse(Console.ReadLine());
+            double valor1 = Double.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el segundo valor");
-            int valor2 = Int32.Parse(Console.ReadLine());
+            double valor2 = double.Parse(Console.ReadLine());
 
-            int resultado = valor1 / valor2;
+            double resultado = valor1 / valor2;
 
             Console.WriteLine("El resultado es:" + resultado);
 
