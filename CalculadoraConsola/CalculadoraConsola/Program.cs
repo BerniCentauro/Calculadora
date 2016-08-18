@@ -28,6 +28,7 @@ namespace CalculadoraConsola
                 Console.WriteLine("3. Multiplicar");
                 Console.WriteLine("4. Division");
 
+
                 string opcion = Console.ReadLine();
 
                 if (opcion == "1")
@@ -62,6 +63,26 @@ namespace CalculadoraConsola
                 }
 
             }
+        }
+
+       
+
+        static void Multiplicar()
+        {
+            Console.Clear();
+
+            Console.WriteLine("MULTIPLICAR");
+            Console.WriteLine("");
+
+            Console.WriteLine("Ingrese el primer valor: ");
+            int valor1 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo valor: ");
+            int valor2 = Int32.Parse(Console.ReadLine());
+
+            int resultado = valor1 * valor2;
+
+            Console.WriteLine("El resultado es: " + resultado);
         }
 
         /// <summary>
