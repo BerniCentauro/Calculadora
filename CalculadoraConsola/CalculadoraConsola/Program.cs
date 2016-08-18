@@ -9,7 +9,7 @@ namespace CalculadoraConsola
     class Program
     {
         /// <summary>
-        /// Metódo principal
+        /// Metódo principal modificado por Oscar Delgado 
         /// </summary>
         static void Main(string[] args)
         {
