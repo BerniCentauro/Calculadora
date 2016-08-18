@@ -9,7 +9,7 @@ namespace CalculadoraConsola
     class Program
     {
         /// <summary>
-        /// Metódo principal
+        /// Metódo principal modificado por Oscar Delgado 
         /// </summary>
         static void Main(string[] args)
         {
@@ -137,7 +137,7 @@ namespace CalculadoraConsola
             Console.WriteLine("");
 
             Console.WriteLine("Ingrese el primer valor");
-            double valor1 = Double.Parse(Console.ReadLine());
+            double valor1 = Double.Parse(Console.ReadLine()); // Hola Abel
 
             Console.WriteLine("Ingrese el segundo valor");
             double valor2 = double.Parse(Console.ReadLine());
