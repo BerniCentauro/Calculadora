@@ -25,6 +25,8 @@ namespace CalculadoraConsola
 
                 Console.WriteLine("1. Suma");
                 Console.WriteLine("2. Resta");
+                Console.WriteLine("3. Multiplicar");
+                Console.WriteLine("4. Division");
 
                 string opcion = Console.ReadLine();
 
@@ -36,6 +38,16 @@ namespace CalculadoraConsola
                 if (opcion == "2")
                 {
                     Restar();
+                }
+
+                if (opcion == "3")
+                {
+                    Multiplicar();
+                }
+
+                if (opcion == "4")
+                {
+                    Division();
                 }
 
                 Console.WriteLine("\nSeleccione una opción: ");
@@ -93,6 +105,28 @@ namespace CalculadoraConsola
 
             Console.WriteLine("El resultado es: " + resultado);
         }
+
+        
+
+        static void Division()
+        {
+            Console.Clear();
+
+            Console.WriteLine("DIVISION");
+            Console.WriteLine("");
+
+            Console.WriteLine("Ingrese el primer valor");
+            int valor1 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo valor");
+            int valor2 = Int32.Parse(Console.ReadLine());
+
+            int resultado = valor1 / valor2;
+
+            Console.WriteLine("El resultado es:" + resultado);
+
+        }
+
 
 
     }
