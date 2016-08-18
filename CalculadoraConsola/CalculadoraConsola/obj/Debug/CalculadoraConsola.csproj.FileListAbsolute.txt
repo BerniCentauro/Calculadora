@@ -1,0 +1,9 @@
+C:\GitHub\CalculadoraConsola\CalculadoraConsola\CalculadoraConsola\bin\Debug\CalculadoraConsola.exe.config
+C:\GitHub\CalculadoraConsola\CalculadoraConsola\CalculadoraConsola\bin\Debug\CalculadoraConsola.exe
+C:\GitHub\CalculadoraConsola\CalculadoraConsola\CalculadoraConsola\bin\Debug\CalculadoraConsola.pdb
+C:\GitHub\CalculadoraConsola\CalculadoraConsola\CalculadoraConsola\obj\Debug\CalculadoraConsola.csprojResolveAssemblyReference.cache
+C:\GitHub\CalculadoraConsola\CalculadoraConsola\CalculadoraConsola\obj\Debug\CalculadoraConsola.exe
+C:\GitHub\CalculadoraConsola\CalculadoraConsola\CalculadoraConsola\obj\Debug\CalculadoraConsola.pdb
+C:\GitHub\Calculadora\CalculadoraConsola\CalculadoraConsola\bin\Debug\CalculadoraConsola.exe.config
+C:\GitHub\Calculadora\CalculadoraConsola\CalculadoraConsola\obj\Debug\CalculadoraConsola.exe
+C:\GitHub\Calculadora\CalculadoraConsola\CalculadoraConsola\obj\Debug\CalculadoraConsola.pdb
