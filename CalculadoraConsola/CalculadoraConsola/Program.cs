@@ -67,7 +67,7 @@ namespace CalculadoraConsola
 
        
 
-        static void Multiplicar()
+        static void Multiplicar() /*este metodo multiplica*/
         {
             Console.Clear();
 
